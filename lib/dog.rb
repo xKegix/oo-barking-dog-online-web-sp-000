@@ -2,7 +2,7 @@
 class Dog
 	def dname=(give_dog_name)
 		dog_name = give_dog_name
-	end 
+	end
 
 	def name
 		puts dog_name
